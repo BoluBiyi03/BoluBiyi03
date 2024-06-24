@@ -10,8 +10,8 @@ I'm an Aspiring Embedded System Engineer 🌐 | Skilled Circuit Designer 🧑‍
 - 💡 Fun fact: I'm currently studying at Bowen University, Iwo,Nigeria.
 - 🌱 I’m currently learning LINUX operating system,TinkerCad,C++ Programming Language.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Intern or Junior level).
-- 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:objas9@gmail.com).
+- 💼 Job interests: Embedded System Engineer , Circuit Designer (Intern or Junior level).
+- 📫 You can [Email me here](mailto:objas9@gmail.com).
 
 ---
 
