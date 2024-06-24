@@ -12,9 +12,9 @@ I'm a Software Engineer, Experienced Web Developer 🌐 | Skilled Python Develop
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Python.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back Engineer, or Python Developer (Intern or Junior level).
-- 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:danielzadva@gmail.com).
+- 📫 You can view my [resume here](https://zadvajr.github.io/web-based-resume/) and [Email me here](mailto:objas9@gmail.com).
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zadvajr&show_icons=true&include_all_commits=true&hide_border=true" alt="zadvajr's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadvajr&langs_count=8&layout=compact&hide_border=true" alt="zadvajr's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=BoluBiyi03&show_icons=true&include_all_commits=true&hide_border=true" alt="BoluBiyi03's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoluBiyi03&langs_count=8&layout=compact&hide_border=true" alt="BoluBiyi03's GitHub stats" /> |
 | ------------- | ------------- |
